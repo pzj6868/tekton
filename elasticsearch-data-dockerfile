@@ -1,1 +1,1 @@
-FROM busybox:1.30
+FROM skywalking.docker.scarf.sh/apache/skywalking-ui:latest
