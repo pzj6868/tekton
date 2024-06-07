@@ -1,1 +1,1 @@
-FROM skywalking.docker.scarf.sh/apache/skywalking-ui:latest
+FROM jenkins/inbound-agent:latest
