@@ -1,1 +1,1 @@
-FROM jenkins/inbound-agent:latest
+FROM node:18.16.0
